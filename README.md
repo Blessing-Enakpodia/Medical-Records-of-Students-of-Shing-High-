@@ -1,4 +1,4 @@
-# Data Analysis on Medical-Records-of-Students-of-Shing-High-
+# Data Analysis on Medical-Records-of-Students-of-Shing-High-College
 # Introduction
 This task marks the completion of week 2 of the Data Analysis Cohort 3 Excel training. This task was given by training facilitator Chinonso Promise to assess trainees' understanding of the use of pivot tables and pivot charts. 
 
