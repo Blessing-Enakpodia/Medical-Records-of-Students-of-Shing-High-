@@ -17,7 +17,7 @@ This dataset was provided by the facilitator Chinonso Promise. It’s a dataset 
    
 # Raw Dataset
 This is a snapshot of the first 30 rows of the dataset
-![](image001.png)
+![](image007.png)
 
 # Problem Statement. 
 The project aims to, with the use of pivot tables and pivot charts, assess, analyze and visualize;
@@ -42,6 +42,9 @@ Then, I went ahead to fill the blanks and as per the instructions of Facilitator
 To fill the blanks, I used the **Find and Select** option. 
 
 ![](image003.png)
+
+# Cleaned dataset
+![](image001.png)
 
 # Data Analysis
 When using a pivot table, colums from the dataset can either be put on the rows section, column section or value section depending on the problem being solved. Numeric values however are always on the values section and the values can be aggregated either by sum, count, average, Min, max, etc. Depending on the problem to be solved.
