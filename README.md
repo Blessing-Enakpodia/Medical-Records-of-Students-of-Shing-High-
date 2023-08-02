@@ -47,10 +47,10 @@ To fill the blanks, I used the **Find and Select** option.
 ![](image001.png)
 
 # Data Analysis
-When using a pivot table, colums from the dataset can either be put on the rows section, column section or value section depending on the problem being solved. Numeric values however are always on the values section and the values can be aggregated either by sum, count, average, Min, max, etc. Depending on the problem to be solved.
+When using a pivot table, colums from the dataset can either be put on the rows section, column section or value section depending on the problem being solved. In most cases, numeric values are placed on the values section and the values can be aggregated either by sum, count, average, Min, max, etc. Depending on the problem to be solved.
 ![](image004.png)
 
-Aggregate functions are not the only functions that can be performed using the pivot table. There are a plethora of other functions that can also be performed like variance, standard deviation, etc.
+It is worthy to note that aggregate functions are not the only functions that can be performed using the pivot table. There are a plethora of other functions that can also be performed like variance, standard deviation,percebtage, etc.
 
 For the purpose of this project, however, aggregate functions are the key focus.
 
