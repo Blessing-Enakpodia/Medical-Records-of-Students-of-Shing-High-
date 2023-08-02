@@ -1,6 +1,6 @@
 # Data Analysis of Medical-Records-of-Students-of-Shing-High-
 # Introduction
-This task was given by training facilitator Chinonso Promise to assess trainees' understanding of the use of pivot tables and pivot charts. 
+This task marks the completion of week 2 of the Data Analysis Chohort 3 Excel training. This task was given by training facilitator Chinonso Promise to assess trainees' understanding of the use of pivot tables and pivot charts. 
 
 Disclaimer: This is fictitious data.
 
@@ -17,7 +17,7 @@ This dataset was provided by the facilitator Chinonso Promise. It’s a dataset 
    
 # Raw Dataset
 This is a snapshot of the first 30 rows of the dataset
-IMAGE001
+![](image001.png)
 
 # Problem Statement. 
 The project aims to, with the use of pivot tables and pivot charts, assess, analyze and visualize;
@@ -31,7 +31,7 @@ The stakeholders' interest lies in understanding the gender-specific distributio
 
 # Data Cleaning 
 Firstly, I started off by checking for duplicates and highlighting them using **conditional formatting**, glanced through the highlighted data to ensure they’re duplicates before removing them using **remove duplicates** 
-IMAGEEEEE2
+![](image002.png)
 The dataset had 84,083 duplicates. 
 
 Then, I went ahead to fill the blanks and as per the instructions of Facilitator Chinonso Promise;
@@ -40,18 +40,21 @@ Then, I went ahead to fill the blanks and as per the instructions of Facilitator
 3.	For the columns with numerical values (both discrete and continuous data), save for the StudentID column, the average value was used in filling up the blanks. 
 
 To fill the blanks, I used the **Find and Select** option. 
-IMAGEEEEEEEE003
+
+![](image003.png)
 
 # Data Analysis
 When using a pivot table, colums from the dataset can either be put on the rows section, column section or value section depending on the problem being solved. Numeric values however are always on the values section and the values can be aggregated either by sum, count, average, Min, max, etc. Depending on the problem to be solved.
-IMAGEEEEEEE004
+![](image004.png)
 
 Aggregate functions are not the only functions that can be performed using the pivot table. There are a plethora of other functions that can also be performed like variance, standard deviation, etc.
 
 For the purpose of this project, however, aggregate functions are the key focus.
-IMAGEEEEEE05
+
+![](image005.png)
 
 # Data Visualisation
+![](image006.png)
 
 
 
